@@ -4,6 +4,7 @@
 # How to use?
 
 ```
+Change the token of you'r bot at the last line of main.py, then open a CMD and type:
 C:\yuxontop\> python main.py
 ```
 
